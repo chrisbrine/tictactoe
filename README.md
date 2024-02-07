@@ -1,3 +1,7 @@
+## Tic Tac Toe
+
+This is a simple Tic Tac Toe game that runs in your browser that will keep score, allow for enabling or disabling a computer algorithm to play for either X or O or both, and will run intuitively when you open it in the browser right after running it.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
